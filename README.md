@@ -19,8 +19,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olatokunboajayi)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tokunboajayi53@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=tokunboajayi&color=blueviolet&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/tokunboajayi?style=for-the-badge&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=OlatokunboAjayi&color=blueviolet&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/OlatokunboAjayi?style=for-the-badge&color=blueviolet)
 
 </div>
 
@@ -33,8 +33,8 @@
 Hey, I'm **Olatokunbo**! I'm an **AI Engineer & Systems Developer** building autonomous multi-agent engines, physics-informed machine learning pipelines, and intuitive human-AI interfaces. I bridge complex theoretical models—from orbital telemetry to neural embeddings—into robust, low-latency production software.
 
 - 🎯 **Target Roles**: **AI Engineer**, **Applied AI / Machine Learning Engineer**, **Agentic Systems Engineer**
-- 🔭 **Currently Building**: **[Asteria](https://github.com/tokunboajayi/asteria)** (mission control comparing RocketPy physics vs. telemetry flight logs & orbital propagation) & **[Jobdec](https://github.com/tokunboajayi/jobdec)** (autonomous multi-agent application engine).
-- ⚡ **Recently Shipped**: **[Glass Prompter](https://github.com/tokunboajayi/glass-prompter)** (voice-following teleprompter with vision AI assistant) & **[Tripwire](https://github.com/tokunboajayi/tripwire)** (multi-regime AI investor with an immutable Rust risk layer for Hacklanta '26).
+- 🔭 **Currently Building**: **[Asteria](https://github.com/OlatokunboAjayi/asteria)** (mission control comparing RocketPy physics vs. telemetry flight logs & orbital propagation) & **[Jobdec](https://github.com/OlatokunboAjayi/jobdec)** (autonomous multi-agent application engine).
+- ⚡ **Recently Shipped**: **[Glass Prompter](https://github.com/OlatokunboAjayi/glass-prompter)** (voice-following teleprompter with vision AI assistant) & **[Tripwire](https://github.com/OlatokunboAjayi/tripwire)** (multi-regime AI investor with an immutable Rust risk layer for Hacklanta '26).
 - 🧠 **AI Specializations**: Multi-Agent Orchestration, Neural Embeddings, LLM Tool-Use & Self-Healing Workflows, Physics-Informed ML, Guardrailed Decision Systems.
 - 📍 **Location**: Atlanta, GA (Open to Remote & Relocation)
 - 💼 **Availability**: **Immediate / Open to Full-Time Roles & High-Impact Collaborations**
@@ -69,12 +69,12 @@ Hey, I'm **Olatokunbo**! I'm an **AI Engineer & Systems Developer** building aut
 
 | Project | Domain & Architecture | Tech Stack |
 |:---|:---|:---|
-| 🚀 **[Asteria](https://github.com/tokunboajayi/asteria)** | **Physics-Informed ML & Orbital Telemetry**<br/>Mission control analyzing the delta between RocketPy physics simulations vs. real flight telemetry & SGP4 orbit ghosts through geomagnetic storms. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Physics](https://img.shields.io/badge/-Physics_Sim-00599C?style=flat) ![Aerospace](https://img.shields.io/badge/-Aerospace-4B0082?style=flat) |
-| 🤖 **[Jobdec](https://github.com/tokunboajayi/jobdec)** | **Autonomous Agentic Systems & Automation**<br/>Multi-agent application engine powered by local neural embeddings, Playwright browser orchestration, self-healing rule execution, and a Cyberdeck TUI. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat&logo=playwright&logoColor=white) ![Multi--Agent](https://img.shields.io/badge/-Multi--Agent-FF6F00?style=flat) |
-| 🪟 **[Glass Prompter](https://github.com/tokunboajayi/glass-prompter)** | **Multimodal AI & Real-Time HCI**<br/>See-through voice-following teleprompter invisible on screen share with integrated AI screen vision perception and live phone companion sync. | ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat&logo=electron&logoColor=white) ![AI Vision](https://img.shields.io/badge/-AI_Vision-8A2BE2?style=flat) |
-| ⚡ **[Tripwire](https://github.com/tokunboajayi/tripwire)** | **Guardrailed AI & Quant Systems**<br/>Autonomous AI investor that dynamically switches trading brains by market regime, constrained by an immutable Rust risk layer it cannot override (*Hacklanta '26*). | ![Rust](https://img.shields.io/badge/-Rust-DEA584?style=flat&logo=rust&logoColor=black) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Quant](https://img.shields.io/badge/-Quant_AI-00C853?style=flat) |
-| 🖐️ **[Hand-track-control](https://github.com/tokunboajayi/Hand-track-control)** | **Edge Vision & Spatial Computing**<br/>Real-time neural hand-tracking and gesture recognition interface with WebGPU particle compute shaders and 4D tesseract manipulation. | ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![WebGPU](https://img.shields.io/badge/-WebGPU-990000?style=flat) ![WebGL](https://img.shields.io/badge/-WebGL-990000?style=flat&logo=webgl&logoColor=white) |
-| 🛠️ **[OS-GameBooster](https://github.com/tokunboajayi/OS-GameBooster)** | **High-Performance Systems Tuning**<br/>Terminal-based hardware-agnostic latency and thread optimization engine tuned for competitive, compute-heavy workloads. | ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat&logo=powershell&logoColor=white) ![CLI](https://img.shields.io/badge/-Systems_Tuning-333333?style=flat) |
+| 🚀 **[Asteria](https://github.com/OlatokunboAjayi/asteria)** | **Physics-Informed ML & Orbital Telemetry**<br/>Mission control analyzing the delta between RocketPy physics simulations vs. real flight telemetry & SGP4 orbit ghosts through geomagnetic storms. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Physics](https://img.shields.io/badge/-Physics_Sim-00599C?style=flat) ![Aerospace](https://img.shields.io/badge/-Aerospace-4B0082?style=flat) |
+| 🤖 **[Jobdec](https://github.com/OlatokunboAjayi/jobdec)** | **Autonomous Agentic Systems & Automation**<br/>Multi-agent application engine powered by local neural embeddings, Playwright browser orchestration, self-healing rule execution, and a Cyberdeck TUI. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat&logo=playwright&logoColor=white) ![Multi--Agent](https://img.shields.io/badge/-Multi--Agent-FF6F00?style=flat) |
+| 🪟 **[Glass Prompter](https://github.com/OlatokunboAjayi/glass-prompter)** | **Multimodal AI & Real-Time HCI**<br/>See-through voice-following teleprompter invisible on screen share with integrated AI screen vision perception and live phone companion sync. | ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat&logo=electron&logoColor=white) ![AI Vision](https://img.shields.io/badge/-AI_Vision-8A2BE2?style=flat) |
+| ⚡ **[Tripwire](https://github.com/OlatokunboAjayi/tripwire)** | **Guardrailed AI & Quant Systems**<br/>Autonomous AI investor that dynamically switches trading brains by market regime, constrained by an immutable Rust risk layer it cannot override (*Hacklanta '26*). | ![Rust](https://img.shields.io/badge/-Rust-DEA584?style=flat&logo=rust&logoColor=black) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Quant](https://img.shields.io/badge/-Quant_AI-00C853?style=flat) |
+| 🖐️ **[Hand-track-control](https://github.com/OlatokunboAjayi/Hand-track-control)** | **Edge Vision & Spatial Computing**<br/>Real-time neural hand-tracking and gesture recognition interface with WebGPU particle compute shaders and 4D tesseract manipulation. | ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![WebGPU](https://img.shields.io/badge/-WebGPU-990000?style=flat) ![WebGL](https://img.shields.io/badge/-WebGL-990000?style=flat&logo=webgl&logoColor=white) |
+| 🛠️ **[OS-GameBooster](https://github.com/OlatokunboAjayi/OS-GameBooster)** | **High-Performance Systems Tuning**<br/>Terminal-based hardware-agnostic latency and thread optimization engine tuned for competitive, compute-heavy workloads. | ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat&logo=powershell&logoColor=white) ![CLI](https://img.shields.io/badge/-Systems_Tuning-333333?style=flat) |
 
 </div>
 
@@ -85,14 +85,14 @@ Hey, I'm **Olatokunbo**! I'm an **AI Engineer & Systems Developer** building aut
 <div align="center">
 
 <!-- Main Stats & Streak -->
-<img width="49%" src="https://github-readme-stats-eight-xi.vercel.app/api?username=tokunboajayi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960FF&icon_color=A960FF" />
-<img width="49%" src="https://streak-stats.demolab.com/?user=tokunboajayi&theme=tokyonight&hide_border=true&background=0D1117&ring=A960FF&fire=A960FF&currStreakLabel=A960FF" />
+<img width="49%" src="https://github-readme-stats-eight-xi.vercel.app/api?username=OlatokunboAjayi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960FF&icon_color=A960FF" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=OlatokunboAjayi&theme=tokyonight&hide_border=true&background=0D1117&ring=A960FF&fire=A960FF&currStreakLabel=A960FF" />
 
 <br/><br/>
 
 <!-- Top Languages & Profile Summary -->
-<img width="42%" src="https://github-readme-stats-eight-xi.vercel.app/api/top-langs/?username=tokunboajayi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960FF" />
-<img width="56%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tokunboajayi&theme=tokyonight" />
+<img width="42%" src="https://github-readme-stats-eight-xi.vercel.app/api/top-langs/?username=OlatokunboAjayi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960FF" />
+<img width="56%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OlatokunboAjayi&theme=tokyonight" />
 
 </div>
 
