@@ -17,6 +17,7 @@
 <!-- Opportunity & Social Badges -->
 [![Seeking AI Roles](https://img.shields.io/badge/Status-Seeking_AI_Engineering_Roles-00C853?style=for-the-badge&logo=target&logoColor=white)](mailto:tokunboajayi53@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olatokunboajayi)
+[![Portfolio](https://img.shields.io/badge/Portfolio-olatokunboajayi.github.io-A960FF?style=for-the-badge&logo=githubpages&logoColor=white)](https://olatokunboajayi.github.io)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tokunboajayi53@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=OlatokunboAjayi&color=blueviolet&style=for-the-badge)
